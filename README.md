@@ -1,4 +1,4 @@
-![output5](https://github.com/Hemanath08/softweb/assets/151807176/37cce704-5c1d-4e65-a173-d454b98bb944)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date: 10/05/2024
 
 ## AIM:
